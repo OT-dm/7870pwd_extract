@@ -9,6 +9,9 @@
 - openssl (tested with openssl3) + openssl dev package (sudo apt install libssl-dev)
 - minizip (sudo apt install libminizip-dev)
 
+Also includes ed25519 implementation from https://github.com/orlp/ed25519/tree/master
+
+
 ### 1.2 Build
 ```
     cd 7870pwd_extract
