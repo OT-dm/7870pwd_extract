@@ -6,6 +6,7 @@
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
+#include <memory>
 #include <minizip/unzip.h>
 #include <openssl/conf.h>
 #include <openssl/evp.h>
